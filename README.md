@@ -28,7 +28,7 @@
 <a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code"><img width='48px'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"/></a>
 <a href="https://git-scm.com/" target="_blank" title="Git"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a href="https://www.jetbrains.com/phpstorm/" target="_blank" title="PHPSTORM"><img width='48px'  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/langfr-220px-PhpStorm_Icon.svg.png"/></a>
-<a href="https://www.docker.com/" target="_blank" title="Docker"><img width='188px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Docker_%28container_engine%29_logo.png/280px-Docker_%28container_engine%29_logo.png"/></a>
+<a href="https://www.docker.com/" target="_blank" title="Docker"><img width='108px' src="https://d1.awsstatic.com/acs/characters/Logos/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png"/></a>
 <a href="https://vuejs.org/" target="_blank" title="Vue.js"><img width='48px' src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4"/></a>
 <a href="https://laravel.com/" target="_blank" title="Laravel"><img width='48px' src="https://laravel.com/img/logomark.min.svg"/></a>
 <a href="https://docs.nestjs.com/" target="_blank" title="Nest.js"><img width='48px'  src="https://docs.nestjs.com/assets/logo-small.svg"/></a>
